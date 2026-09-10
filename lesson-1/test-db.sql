@@ -6,7 +6,4 @@ CREATE TABLE persons(
 INSERT INTO persons (id,name)
 VALUES (0,'Tomas'),(1,'Martin');
 SELECT id, name FROM persons;
-
-
-
-
+SELECT id, name FROM persons;
